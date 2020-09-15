@@ -1,0 +1,125 @@
+body {
+  font-family: Lato, sans-serif;
+  background-image: url(https://images.unsplash.com/photo-1474778577467-8697eaf62a7c?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=1a2d5d43314a571a8b142f212d26447f&auto=format&fit=crop&w=1050&q=80);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: rgb(250, 250, 250);
+  word-break: break-word;
+}
+
+html {
+  height: 100%;
+}
+
+.container {
+  max-width: 100%;
+}
+
+.udacity-logo {
+  width: 7vw;
+  height: auto;
+  position: relative;
+  top: 50%;
+}
+
+#first-section {
+  text-align: right;
+  text-transform: uppercase;
+  padding-top: 65vh;
+  color: rgb(250, 250, 250);
+  letter-spacing: 1em;
+  font-size: 0.9em;
+  margin-bottom: 8vh;
+}
+
+#first-section-h3 {
+  font-size: 1.1em;
+  letter-spacing: 0.5em;
+}
+
+.fa-angle-down,
+i {
+  margin-top: 7vh;
+}
+
+#second-section {
+  padding-top: 15vh;
+  text-align: center;
+  color: rgb(88, 91, 96);
+}
+
+#second-section-h3 {
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 1.7em;
+  letter-spacing: 0.2em;
+  font-weight: 700;
+}
+
+.selfie {
+  width: 30vw;
+  border-radius: 50%;
+  border: 2px solid rgba(250, 250, 250, 1);
+  margin-bottom: 1.5em;
+  margin-top: 1.5em;
+}
+
+#third-section {
+  color: rgb(88, 91, 96);
+  margin-top: 3em;
+}
+
+#third-section-h3 {
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 1.7em;
+  letter-spacing: 0.2em;
+  font-weight: 700;
+}
+
+#third-section-nested {
+  margin-top: 3em;
+  text-align: center;
+}
+
+h4 {
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 1.2em;
+  letter-spacing: 0.2em;
+  font-weight: 700;
+  color: rgb(88, 91, 96);
+  margin-bottom: 2.5em;
+}
+
+a:visited {
+  color: rgb(88, 91, 96);
+}
+
+a:hover {
+  text-decoration-color: rgb(88, 91, 96);
+}
+
+.featured-work-img {
+  width: 80%;
+  height: auto;
+  margin-bottom: 1.5em;
+}
+
+#fourth-section {
+  text-align: center;
+  margin-top: 2em;
+  margin-bottom: 0.7em;
+}
+
+.contact {
+  margin-right: 0.5em;
+}
+
+.copyright {
+  padding-top: 0.5em;
+  margin-bottom: 0;
+  color: rgb(88, 91, 96);
+  font-size: 0.6em;
+}
